@@ -1,0 +1,660 @@
+INFO 2025-07-07 09:58:18,631 autoreload 12468 3920 Watching for file changes with StatReloader
+WARNING 2025-07-07 10:00:16,987 log 12468 224 Not Found: /
+WARNING 2025-07-07 10:00:18,192 log 12468 224 Not Found: /favicon.ico
+INFO 2025-07-07 10:04:49,224 autoreload 14884 3264 Watching for file changes with StatReloader
+INFO 2025-07-07 10:47:15,603 autoreload 9992 7760 Watching for file changes with StatReloader
+WARNING 2025-07-07 10:49:27,422 log 9992 6248 Not Found: /
+INFO 2025-07-07 11:19:23,322 autoreload 2436 16092 Watching for file changes with StatReloader
+WARNING 2025-07-07 11:19:52,147 log 2436 8468 Not Found: /
+INFO 2025-07-07 14:02:26,737 autoreload 13648 12664 Watching for file changes with StatReloader
+WARNING 2025-07-07 14:02:49,801 log 13648 7576 Not Found: /
+WARNING 2025-07-07 14:03:30,335 log 13648 7576 Not Found: /favicon.ico
+INFO 2025-07-07 16:50:53,456 autoreload 4192 14688 Watching for file changes with StatReloader
+WARNING 2025-07-07 17:12:40,334 log 4192 2712 Not Found: /
+WARNING 2025-07-07 19:18:47,283 log 4192 2188 Bad Request: /api/auth/login/
+WARNING 2025-07-07 19:19:33,301 log 4192 2188 Bad Request: /api/auth/register/
+WARNING 2025-07-07 19:20:09,583 log 4192 2188 Bad Request: /api/auth/register/
+WARNING 2025-07-07 19:20:25,962 log 4192 2188 Bad Request: /api/auth/register/
+WARNING 2025-07-07 19:20:59,808 log 4192 2188 Bad Request: /api/auth/register/
+WARNING 2025-07-07 19:21:48,129 log 4192 2188 Bad Request: /api/auth/register/
+WARNING 2025-07-07 19:27:52,631 log 4192 6016 Not Found: /swagger/
+WARNING 2025-07-07 19:27:53,433 log 4192 14964 Not Found: /favicon.ico
+INFO 2025-07-07 19:33:05,033 views 4192 1900 User logged in: customer
+INFO 2025-07-08 10:35:00,976 autoreload 10508 7004 Watching for file changes with StatReloader
+WARNING 2025-07-08 11:07:51,283 log 10508 4188 Not Found: /api/products/best/
+WARNING 2025-07-08 11:07:51,283 log 10508 14788 Not Found: /api/products/best/
+WARNING 2025-07-08 11:07:52,517 log 10508 7704 Not Found: /api/products/best/
+WARNING 2025-07-08 11:07:53,791 log 10508 14788 Not Found: /api/products/best/
+WARNING 2025-07-08 11:08:57,664 log 10508 4364 Not Found: /api/comparisons/add/
+WARNING 2025-07-08 11:08:57,976 log 10508 7032 Not Found: /api/comparisons/data/
+WARNING 2025-07-08 11:09:40,545 log 10508 4188 Bad Request: /api/auth/login/
+WARNING 2025-07-08 11:10:23,677 log 10508 4364 Bad Request: /api/auth/login/
+WARNING 2025-07-08 11:11:16,166 log 10508 4188 Bad Request: /api/auth/register/
+WARNING 2025-07-08 11:12:42,887 log 10508 13636 Not Found: /api/products/best/
+WARNING 2025-07-08 11:12:42,903 log 10508 10248 Not Found: /api/products/best/
+WARNING 2025-07-08 11:12:43,514 log 10508 7184 Not Found: /api/products/best/
+WARNING 2025-07-08 11:12:44,151 log 10508 11336 Not Found: /api/products/best/
+WARNING 2025-07-08 11:13:03,678 log 10508 6496 Not Found: /api/comparisons/add/
+WARNING 2025-07-08 11:13:03,794 log 10508 11336 Not Found: /api/comparisons/data/
+WARNING 2025-07-08 11:13:20,493 log 10508 1340 Not Found: /api/products/best/
+WARNING 2025-07-08 11:13:20,535 log 10508 11336 Not Found: /api/products/best/
+WARNING 2025-07-08 11:13:21,265 log 10508 7184 Not Found: /api/products/best/
+WARNING 2025-07-08 11:13:22,166 log 10508 13636 Not Found: /api/products/best/
+ERROR 2025-07-08 11:13:24,986 views 10508 6496 Error getting similar products: No Product matches the given query.
+WARNING 2025-07-08 11:13:24,995 log 10508 11336 Not Found: /api/products/36/
+ERROR 2025-07-08 11:13:25,416 views 10508 10248 Error getting similar products: No Product matches the given query.
+WARNING 2025-07-08 11:13:25,030 log 10508 13636 Not Found: /api/user-behavior/track/
+WARNING 2025-07-08 11:13:25,032 log 10508 1340 Not Found: /api/products/36/
+WARNING 2025-07-08 11:13:25,095 log 10508 7184 Not Found: /api/user-behavior/track/
+ERROR 2025-07-08 11:13:25,288 log 10508 6496 Internal Server Error: /api/products/36/similar/
+ERROR 2025-07-08 11:13:26,431 views 10508 13636 Error getting similar products: No Product matches the given query.
+WARNING 2025-07-08 11:13:25,846 log 10508 11336 Not Found: /api/products/36/
+ERROR 2025-07-08 11:13:25,908 log 10508 10248 Internal Server Error: /api/products/36/similar/
+ERROR 2025-07-08 11:13:27,562 views 10508 6496 Error getting similar products: No Product matches the given query.
+WARNING 2025-07-08 11:13:26,729 log 10508 1340 Not Found: /api/user-behavior/track/
+ERROR 2025-07-08 11:13:27,293 log 10508 13636 Internal Server Error: /api/products/36/similar/
+WARNING 2025-07-08 11:13:27,300 log 10508 7184 Not Found: /api/products/36/
+ERROR 2025-07-08 11:13:27,913 log 10508 6496 Internal Server Error: /api/products/36/similar/
+WARNING 2025-07-08 11:13:27,936 log 10508 11336 Not Found: /api/user-behavior/track/
+INFO 2025-07-08 17:18:48,543 autoreload 12344 8096 Watching for file changes with StatReloader
+INFO 2025-07-08 19:43:47,989 autoreload 740 3776 Watching for file changes with StatReloader
+INFO 2025-07-09 09:05:26,795 autoreload 10088 8924 Watching for file changes with StatReloader
+INFO 2025-07-10 09:46:06,193 autoreload 456 2416 Watching for file changes with StatReloader
+WARNING 2025-07-10 11:20:53,291 log 456 15780 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 11:20:53,555 log 456 3208 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 11:21:48,574 log 456 16332 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 11:21:48,876 log 456 12260 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 11:22:26,793 log 456 5744 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 11:22:26,899 log 456 12260 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 11:25:18,858 log 456 12260 Bad Request: /api/auth/register/
+WARNING 2025-07-10 11:25:51,981 log 456 15352 Not Found: /
+WARNING 2025-07-10 11:25:52,658 log 456 15352 Not Found: /favicon.ico
+WARNING 2025-07-10 11:28:01,685 log 456 15756 Bad Request: /api/auth/login/
+WARNING 2025-07-10 11:28:15,710 log 456 10848 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 11:28:17,638 log 456 12392 Not Found: /api/products/best-deals/
+INFO 2025-07-10 11:38:28,298 autoreload 12724 8704 Watching for file changes with StatReloader
+WARNING 2025-07-10 11:39:28,636 log 12724 6952 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 11:39:28,717 log 12724 16016 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 11:54:34,540 log 12724 7884 Method Not Allowed: /api/products/search-suggestions/
+WARNING 2025-07-10 11:54:34,659 log 12724 1196 Method Not Allowed: /api/products/search-suggestions/
+WARNING 2025-07-10 11:54:34,859 log 12724 13608 Method Not Allowed: /api/products/search-suggestions/
+WARNING 2025-07-10 11:54:37,188 log 12724 7884 Method Not Allowed: /api/products/search-suggestions/
+WARNING 2025-07-10 11:54:38,507 log 12724 1196 Method Not Allowed: /api/products/search-suggestions/
+WARNING 2025-07-10 11:54:38,820 log 12724 13608 Method Not Allowed: /api/products/search-suggestions/
+WARNING 2025-07-10 11:54:40,503 log 12724 7884 Method Not Allowed: /api/products/search-suggestions/
+WARNING 2025-07-10 11:54:40,939 log 12724 1196 Method Not Allowed: /api/products/search-suggestions/
+WARNING 2025-07-10 11:54:41,365 log 12724 13608 Method Not Allowed: /api/products/search-suggestions/
+WARNING 2025-07-10 11:54:41,770 log 12724 7884 Method Not Allowed: /api/products/search-suggestions/
+WARNING 2025-07-10 11:54:58,686 log 12724 7712 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 11:54:59,198 log 12724 1196 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:03:23,725 log 12724 15408 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:03:25,486 log 12724 15408 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:04:25,235 log 12724 15440 Bad Request: /api/auth/register/
+WARNING 2025-07-10 12:04:52,545 log 12724 15440 Bad Request: /api/auth/login/
+WARNING 2025-07-10 12:12:41,504 log 12724 16076 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:12:45,388 log 12724 7488 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:12:48,102 log 12724 7432 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:12:48,173 log 12724 7936 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:16:03,856 log 12724 10196 Bad Request: /api/auth/login/
+WARNING 2025-07-10 12:32:52,803 log 12724 2416 Bad Request: /api/auth/login/
+INFO 2025-07-10 12:33:31,685 views 12724 2416 User logged in: customer
+WARNING 2025-07-10 12:33:33,816 log 12724 15208 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:33:34,001 log 12724 13336 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:33:34,508 log 12724 2416 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 12:33:37,606 log 12724 15592 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 12:45:35,687 log 12724 15488 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:45:36,678 log 12724 16092 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:45:37,910 log 12724 8444 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 12:45:38,477 log 12724 6932 Not Found: /api/user-behavior/realtime-personalization/
+ERROR 2025-07-10 12:47:23,561 services 12724 14556 Error comparing products: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+ERROR 2025-07-10 12:47:23,875 views 12724 14556 Error comparing products: 'criteria'
+ERROR 2025-07-10 12:47:24,088 log 12724 14556 Internal Server Error: /api/comparisons/products/
+ERROR 2025-07-10 12:47:27,249 services 12724 16092 Error comparing products: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+ERROR 2025-07-10 12:47:27,316 views 12724 16092 Error comparing products: 'criteria'
+ERROR 2025-07-10 12:47:27,401 log 12724 16092 Internal Server Error: /api/comparisons/products/
+ERROR 2025-07-10 12:47:32,564 services 12724 14556 Error comparing products: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+ERROR 2025-07-10 12:47:32,626 views 12724 14556 Error comparing products: 'criteria'
+ERROR 2025-07-10 12:47:32,628 log 12724 14556 Internal Server Error: /api/comparisons/products/
+ERROR 2025-07-10 12:48:02,194 services 12724 15488 Error comparing products: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+ERROR 2025-07-10 12:48:02,398 views 12724 15488 Error comparing products: 'criteria'
+ERROR 2025-07-10 12:48:02,484 log 12724 15488 Internal Server Error: /api/comparisons/products/
+INFO 2025-07-10 12:50:24,658 services 12724 14556 Enhanced search: 'h' -> 'h'
+INFO 2025-07-10 12:50:25,128 services 12724 9788 Enhanced search: 'ho' -> 'ho'
+INFO 2025-07-10 12:50:25,548 services 12724 6932 Enhanced search: 'hom' -> 'hom'
+INFO 2025-07-10 12:50:26,413 services 12724 14556 Enhanced search: 'home' -> 'home'
+INFO 2025-07-10 12:50:26,732 services 12724 9788 Enhanced search: 'homer' -> 'homer'
+INFO 2025-07-10 12:50:27,120 services 12724 9788 Enhanced search: 'homer ' -> 'homer'
+INFO 2025-07-10 12:50:27,503 services 12724 9788 Enhanced search: 'homer s' -> 'homer s'
+INFO 2025-07-10 12:50:28,722 services 12724 9788 Enhanced search: 'homer st' -> 'homer st'
+INFO 2025-07-10 12:50:30,005 services 12724 9788 Enhanced search: 'homer sty' -> 'homer sty'
+INFO 2025-07-10 12:50:31,376 services 12724 9788 Enhanced search: 'homer st' -> 'homer st'
+INFO 2025-07-10 12:50:37,697 services 12724 9788 Enhanced search: 'homer s' -> 'homer s'
+INFO 2025-07-10 12:50:41,946 services 12724 9788 Enhanced search: 'homer ' -> 'homer'
+INFO 2025-07-10 12:50:46,839 services 12724 9788 Enhanced search: 'homer' -> 'homer'
+INFO 2025-07-10 12:51:38,069 services 12724 9788 Enhanced search: 'home' -> 'home'
+INFO 2025-07-10 12:51:43,951 services 12724 9788 Enhanced search: 'home ' -> 'home'
+INFO 2025-07-10 12:51:45,165 services 12724 9788 Enhanced search: 'home s' -> 'home s'
+INFO 2025-07-10 12:51:45,626 services 12724 9788 Enhanced search: 'home sy' -> 'home sy'
+INFO 2025-07-10 12:51:47,768 services 12724 9788 Enhanced search: 'home s' -> 'home s'
+INFO 2025-07-10 12:51:55,637 services 12724 14556 Enhanced search: 'home st' -> 'home st'
+INFO 2025-07-10 12:51:59,778 services 12724 9788 Enhanced search: 'home s' -> 'home s'
+INFO 2025-07-10 12:52:02,132 services 12724 9788 Enhanced search: 'home ' -> 'home'
+INFO 2025-07-10 12:52:06,357 services 12724 9788 Enhanced search: 'home' -> 'home'
+INFO 2025-07-10 12:52:08,776 services 12724 6932 Enhanced search: 'homesy' -> 'homesy'
+INFO 2025-07-10 12:52:08,800 services 12724 9788 Enhanced search: 'homes' -> 'homes'
+INFO 2025-07-10 12:52:09,719 services 12724 9788 Enhanced search: 'homes' -> 'homes'
+INFO 2025-07-10 12:52:10,986 services 12724 9788 Enhanced search: 'homest' -> 'homest'
+INFO 2025-07-10 12:52:11,124 services 12724 14556 Enhanced search: 'homesty' -> 'homesty'
+INFO 2025-07-10 12:52:12,522 services 12724 9788 Enhanced search: 'homestyl' -> 'homestyl'
+INFO 2025-07-10 12:52:15,301 services 12724 9788 Enhanced search: 'homestyle' -> 'homestyle'
+WARNING 2025-07-10 12:52:25,201 log 12724 6932 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:52:25,598 log 12724 5608 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 12:52:25,866 log 12724 14556 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:52:26,516 log 12724 5608 Not Found: /api/user-behavior/realtime-personalization/
+ERROR 2025-07-10 12:52:35,625 views 12724 9788 Logout error: 'RefreshToken' object has no attribute 'blacklist'
+ERROR 2025-07-10 12:52:35,830 log 12724 9788 Internal Server Error: /api/auth/logout/
+WARNING 2025-07-10 12:52:37,091 log 12724 14556 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:53:39,196 log 12724 2064 Not Found: /favicon.ico
+INFO 2025-07-10 12:55:15,254 views 12724 9788 User logged in: store_owner
+WARNING 2025-07-10 12:55:17,130 log 12724 13940 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:55:17,138 log 12724 12512 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:55:18,158 log 12724 10536 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 12:55:19,062 log 12724 12512 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 12:57:48,522 log 12724 13940 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:57:49,127 log 12724 8196 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 12:57:49,130 log 12724 16328 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 12:57:52,107 log 12724 10192 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 13:03:49,322 log 12724 12732 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 13:03:49,567 log 12724 6772 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 13:03:49,605 log 12724 7884 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 13:03:50,929 log 12724 7920 Not Found: /api/user-behavior/realtime-personalization/
+ERROR 2025-07-10 13:05:28,373 views 12724 9548 Logout error: 'RefreshToken' object has no attribute 'blacklist'
+ERROR 2025-07-10 13:05:28,497 log 12724 9548 Internal Server Error: /api/auth/logout/
+WARNING 2025-07-10 13:05:29,275 log 12724 9548 Not Found: /api/products/best-deals/
+INFO 2025-07-10 13:05:59,468 views 12724 6772 User logged in: store_owner
+WARNING 2025-07-10 13:06:01,058 log 12724 8052 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 13:06:01,137 log 12724 6772 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 13:06:01,662 log 12724 9548 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 13:06:03,278 log 12724 12452 Not Found: /api/user-behavior/realtime-personalization/
+ERROR 2025-07-10 13:37:13,129 services 12724 4460 Error comparing products: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+ERROR 2025-07-10 13:37:13,217 views 12724 4460 Error comparing products: 'criteria'
+ERROR 2025-07-10 13:37:13,427 log 12724 4460 Internal Server Error: /api/comparisons/products/
+ERROR 2025-07-10 13:37:15,795 services 12724 4460 Error comparing products: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+ERROR 2025-07-10 13:37:15,986 views 12724 4460 Error comparing products: 'criteria'
+ERROR 2025-07-10 13:37:16,074 log 12724 4460 Internal Server Error: /api/comparisons/products/
+ERROR 2025-07-10 13:37:18,628 services 12724 1004 Error comparing products: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+ERROR 2025-07-10 13:37:18,722 views 12724 1004 Error comparing products: 'criteria'
+ERROR 2025-07-10 13:37:18,810 log 12724 1004 Internal Server Error: /api/comparisons/products/
+INFO 2025-07-10 17:30:41,191 autoreload 15676 15940 Watching for file changes with StatReloader
+WARNING 2025-07-10 17:32:14,271 log 15676 19776 Unauthorized: /api/auth/profile/
+WARNING 2025-07-10 17:32:14,273 log 15676 19780 Unauthorized: /api/auth/profile/
+WARNING 2025-07-10 17:32:14,273 log 15676 14512 Unauthorized: /api/user-behavior/log/
+WARNING 2025-07-10 17:32:14,275 log 15676 20220 Unauthorized: /api/user-behavior/log/
+ERROR 2025-07-10 17:32:17,025 log 15676 20220 Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+ERROR 2025-07-10 17:32:17,230 log 15676 19780 Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+ERROR 2025-07-10 17:32:17,258 log 15676 19776 Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+ERROR 2025-07-10 17:32:17,276 log 15676 14512 Internal Server Error: /api/auth/token/refresh/
+Traceback (most recent call last):
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+WARNING 2025-07-10 17:40:54,113 log 15676 17536 Not Found: /
+WARNING 2025-07-10 17:40:54,767 log 15676 17536 Not Found: /favicon.ico
+WARNING 2025-07-10 17:41:51,890 log 15676 3768 Bad Request: /api/auth/login/
+WARNING 2025-07-10 17:43:34,482 log 15676 3768 Bad Request: /api/auth/login/
+INFO 2025-07-10 17:44:03,112 views 15676 3768 User logged in: adminkhalid
+WARNING 2025-07-10 17:44:04,652 log 15676 11412 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 17:44:04,775 log 15676 3768 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 17:44:05,436 log 15676 11412 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 17:44:06,380 log 15676 20352 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 17:48:39,360 log 15676 18336 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 17:48:39,514 log 15676 9116 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 17:48:42,314 log 15676 19476 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 17:48:44,394 log 15676 15392 Not Found: /api/user-behavior/realtime-personalization/
+INFO 2025-07-10 17:49:10,477 autoreload 15676 15940 E:\Graduation_Project\best-on-click-backend\best_on_click\settings.py changed, reloading.
+INFO 2025-07-10 17:49:30,224 autoreload 8492 2784 Watching for file changes with StatReloader
+INFO 2025-07-10 17:53:01,732 autoreload 10220 19016 Watching for file changes with StatReloader
+WARNING 2025-07-10 17:53:15,862 log 10220 14644 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 17:53:16,748 log 10220 12316 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 17:53:16,765 log 10220 8976 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 17:53:17,841 log 10220 14408 Not Found: /api/user-behavior/realtime-personalization/
+INFO 2025-07-10 17:53:38,339 views 10220 14408 User logged out: adminkhalid
+WARNING 2025-07-10 17:53:39,374 log 10220 14408 Not Found: /api/products/best-deals/
+INFO 2025-07-10 17:55:16,460 views 10220 20372 User logged in: store_owner
+WARNING 2025-07-10 17:55:18,186 log 10220 20372 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 17:55:19,167 log 10220 15304 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 17:55:20,685 log 10220 14408 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 17:55:22,195 log 10220 15304 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 18:11:05,352 log 10220 9716 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 18:11:05,918 log 10220 10324 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 18:11:06,395 log 10220 12996 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 18:11:07,199 log 10220 10324 Not Found: /api/user-behavior/realtime-personalization/
+INFO 2025-07-10 18:11:54,220 views 10220 8412 User logged out: store_owner
+WARNING 2025-07-10 18:11:55,464 log 10220 8412 Not Found: /api/products/best-deals/
+INFO 2025-07-10 18:12:57,623 views 10220 7348 User logged in: store_owner
+WARNING 2025-07-10 18:12:58,991 log 10220 12276 Not Found: /api/dashboard/analytics/
+WARNING 2025-07-10 18:12:59,054 log 10220 7348 Not Found: /api/dashboard/analytics/
+WARNING 2025-07-10 18:12:59,096 log 10220 9716 Not Found: /api/dashboard/stats/
+WARNING 2025-07-10 18:12:59,138 log 10220 8412 Not Found: /api/dashboard/stats/
+WARNING 2025-07-10 18:13:18,357 log 10220 9716 Not Found: /api/dashboard/stats/
+WARNING 2025-07-10 18:13:18,485 log 10220 7348 Not Found: /api/dashboard/analytics/
+WARNING 2025-07-10 18:13:18,546 log 10220 8412 Not Found: /api/dashboard/analytics/
+WARNING 2025-07-10 18:13:23,684 log 10220 9716 Not Found: /api/dashboard/analytics/
+WARNING 2025-07-10 18:13:23,720 log 10220 7348 Not Found: /api/dashboard/stats/
+WARNING 2025-07-10 18:13:23,747 log 10220 8412 Not Found: /api/dashboard/analytics/
+WARNING 2025-07-10 18:45:35,431 log 10220 9052 Not Found: /api/dashboard/stats/
+WARNING 2025-07-10 18:45:35,591 log 10220 13764 Not Found: /api/dashboard/analytics/
+WARNING 2025-07-10 18:45:35,718 log 10220 14064 Not Found: /api/dashboard/stats/
+WARNING 2025-07-10 18:45:35,891 log 10220 19884 Not Found: /api/dashboard/analytics/
+WARNING 2025-07-10 18:59:53,257 log 10220 12800 Not Found: /api/dashboard/stats/
+WARNING 2025-07-10 18:59:53,980 log 10220 20452 Not Found: /api/dashboard/analytics/
+WARNING 2025-07-10 19:00:38,535 log 10220 20452 Not Found: /api/dashboard/stats/
+WARNING 2025-07-10 19:00:38,553 log 10220 12800 Not Found: /api/dashboard/analytics/
+WARNING 2025-07-10 19:00:54,101 log 10220 12800 Bad Request: /api/products/create/
+WARNING 2025-07-10 19:01:10,251 log 10220 12800 Not Found: /api/dashboard/analytics/
+WARNING 2025-07-10 19:01:16,440 log 10220 12800 Not Found: /api/dashboard/reports/
+ERROR 2025-07-10 19:01:19,425 log 10220 12800 Internal Server Error: /api/promotions/
+Traceback (most recent call last):
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\generics.py", line 203, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 525, in to_representation
+    for field in fields:
+                 ^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 386, in _readable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 375, in fields
+    fields[key] = value
+    ~~~~~~^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\utils\serializer_helpers.py", line 167, in __setitem__
+    field.bind(field_name=key, parent=self.serializer)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\fields.py", line 358, in bind
+    assert self.source != field_name, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: It is redundant to specify `source='is_valid'` on field 'BooleanField' in serializer 'PromotionSerializer', because it is the same as the field name. Remove the `source` keyword argument.
+WARNING 2025-07-10 20:02:49,652 log 10220 824 Unauthorized: /api/products/create/
+WARNING 2025-07-10 20:02:50,934 log 10220 824 Bad Request: /api/products/create/
+WARNING 2025-07-10 20:02:51,096 log 10220 16044 Not Found: /api/dashboard/analytics/
+WARNING 2025-07-10 20:02:52,857 log 10220 16044 Not Found: /api/dashboard/reports/
+ERROR 2025-07-10 20:02:54,468 log 10220 16044 Internal Server Error: /api/promotions/
+Traceback (most recent call last):
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\generics.py", line 203, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\mixins.py", line 43, in list
+    return self.get_paginated_response(serializer.data)
+                                       ^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 797, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 251, in data
+    self._data = self.to_representation(self.instance)
+                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 716, in to_representation
+    self.child.to_representation(item) for item in iterable
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 525, in to_representation
+    for field in fields:
+                 ^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 386, in _readable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\serializers.py", line 375, in fields
+    fields[key] = value
+    ~~~~~~^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\utils\serializer_helpers.py", line 167, in __setitem__
+    field.bind(field_name=key, parent=self.serializer)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Graduation_Project\best-on-click-backend\venv\Lib\site-packages\rest_framework\fields.py", line 358, in bind
+    assert self.source != field_name, (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: It is redundant to specify `source='is_valid'` on field 'BooleanField' in serializer 'PromotionSerializer', because it is the same as the field name. Remove the `source` keyword argument.
+INFO 2025-07-10 20:15:06,272 autoreload 9968 8460 Watching for file changes with StatReloader
+INFO 2025-07-10 20:23:33,092 autoreload 9968 8460 E:\Graduation_Project\best-on-click-backend\promotions\serializers.py changed, reloading.
+INFO 2025-07-10 20:24:00,694 autoreload 13980 15428 Watching for file changes with StatReloader
+INFO 2025-07-10 20:26:09,241 views 13980 8412 User logged in: store_owner
+WARNING 2025-07-10 20:26:26,193 log 13980 3756 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-10 20:26:26,193 log 13980 8412 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-10 20:26:26,406 log 13980 12672 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-10 20:26:26,687 log 13980 12028 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-10 20:27:35,836 log 13980 7736 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 20:27:36,533 log 13980 8412 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 20:27:37,191 log 13980 12028 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 20:27:38,155 log 13980 8412 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 20:28:45,973 log 13980 12028 Method Not Allowed: /api/products/search-suggestions/
+WARNING 2025-07-10 20:28:47,848 log 13980 15796 Method Not Allowed: /api/products/search-suggestions/
+WARNING 2025-07-10 20:28:48,593 log 13980 7736 Method Not Allowed: /api/products/search-suggestions/
+INFO 2025-07-10 20:28:54,733 services 13980 7736 Enhanced search: 't' -> 't'
+INFO 2025-07-10 20:28:55,162 services 13980 15796 Enhanced search: 'te' -> 'te'
+INFO 2025-07-10 20:28:55,657 services 13980 15796 Enhanced search: 'tes' -> 'tes'
+INFO 2025-07-10 20:28:56,468 services 13980 15796 Enhanced search: 'test' -> 'test'
+WARNING 2025-07-10 20:45:31,546 log 13980 8940 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-10 20:45:31,821 log 13980 16184 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-10 20:45:32,522 log 13980 8940 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-10 20:45:33,955 log 13980 7460 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-10 20:49:56,310 log 13980 13324 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-10 20:49:56,326 log 13980 13440 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-10 20:49:56,560 log 13980 2440 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-10 20:49:56,694 log 13980 16708 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-10 20:50:11,597 log 13980 16820 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 20:50:11,665 log 13980 2440 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 20:50:12,406 log 13980 2440 Not Found: /api/products/best-deals/
+WARNING 2025-07-10 20:50:13,280 log 13980 16820 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-10 20:50:29,037 log 13980 16708 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-10 20:50:29,060 log 13980 2440 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-10 20:50:29,646 log 13980 16708 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-10 20:50:29,780 log 13980 18992 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-10 20:51:48,383 log 13980 18992 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-10 20:51:48,415 log 13980 16708 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-10 20:51:48,425 log 13980 12516 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-10 20:51:48,775 log 13980 10912 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-10 20:54:44,604 log 13980 12668 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-10 20:54:45,888 log 13980 18844 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-10 20:54:47,773 log 13980 12668 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-10 20:54:47,970 log 13980 16264 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-10 21:30:26,229 log 13980 11568 Unauthorized: /api/user-behavior/log/
+WARNING 2025-07-10 21:30:28,111 log 13980 14368 Unauthorized: /api/auth/profile/
+WARNING 2025-07-10 21:30:28,344 log 13980 19716 Unauthorized: /api/user-behavior/log/
+WARNING 2025-07-10 21:30:28,379 log 13980 17068 Unauthorized: /api/auth/profile/
+WARNING 2025-07-10 21:30:29,042 log 13980 19164 Unauthorized: /api/user-behavior/log/
+WARNING 2025-07-10 21:30:30,455 log 13980 17068 Unauthorized: /api/auth/token/refresh/
+WARNING 2025-07-10 21:30:35,044 log 13980 14368 Unauthorized: /api/auth/token/refresh/
+INFO 2025-07-10 21:36:18,639 views 13980 12924 User logged in: store_owner
+WARNING 2025-07-10 21:36:20,774 log 13980 12924 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-10 21:36:20,973 log 13980 13336 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-10 21:36:21,589 log 13980 18072 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-10 21:36:21,936 log 13980 15468 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-10 21:37:33,668 log 13980 13336 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-10 21:37:33,688 log 13980 15468 Not Found: /api/dashboard/store/[object Object]/analytics/
+INFO 2025-07-12 10:27:13,408 autoreload 9296 7064 Watching for file changes with StatReloader
+WARNING 2025-07-12 10:28:09,621 log 9296 1636 Unauthorized: /api/user-behavior/log/
+WARNING 2025-07-12 10:28:09,811 log 9296 17324 Unauthorized: /api/auth/profile/
+WARNING 2025-07-12 10:28:09,915 log 9296 13372 Unauthorized: /api/auth/profile/
+WARNING 2025-07-12 10:28:09,949 log 9296 12584 Unauthorized: /api/user-behavior/log/
+WARNING 2025-07-12 10:28:14,238 log 9296 17324 Not Found: /api/products/best-deals/
+WARNING 2025-07-12 10:28:14,241 log 9296 1636 Not Found: /api/products/best-deals/
+WARNING 2025-07-12 10:28:16,310 log 9296 17324 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-12 10:28:17,773 log 9296 12584 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-12 10:29:09,008 log 9296 11732 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-12 10:29:09,439 log 9296 12584 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-12 10:29:09,843 log 9296 1636 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-12 10:29:10,525 log 9296 13372 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-12 11:00:05,596 log 9296 704 Not Found: /api/products/best-deals/
+WARNING 2025-07-12 11:00:07,567 log 9296 15784 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-12 11:00:09,033 log 9296 4432 Not Found: /api/products/best-deals/
+WARNING 2025-07-12 11:00:11,415 log 9296 704 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-12 11:56:06,298 log 9296 4388 Unauthorized: /api/user-behavior/log/
+WARNING 2025-07-12 12:10:42,887 log 9296 6824 Unauthorized: /api/auth/profile/
+WARNING 2025-07-12 12:10:44,760 log 9296 18284 Unauthorized: /api/user-behavior/log/
+WARNING 2025-07-12 12:10:45,035 log 9296 6176 Unauthorized: /api/auth/profile/
+WARNING 2025-07-12 12:10:46,386 log 9296 11160 Unauthorized: /api/user-behavior/log/
+WARNING 2025-07-12 12:10:46,720 log 9296 6824 Unauthorized: /api/auth/token/refresh/
+WARNING 2025-07-12 12:10:46,886 log 9296 18284 Unauthorized: /api/auth/token/refresh/
+WARNING 2025-07-12 12:10:47,620 log 9296 6176 Unauthorized: /api/auth/token/refresh/
+WARNING 2025-07-12 12:10:47,892 log 9296 11160 Unauthorized: /api/auth/token/refresh/
+INFO 2025-07-12 12:11:46,945 views 9296 12620 User logged in: store_owner
+WARNING 2025-07-12 12:11:48,851 log 9296 12620 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-12 12:11:48,995 log 9296 19180 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-12 12:11:49,017 log 9296 7300 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-12 12:11:49,281 log 9296 9308 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-12 12:44:51,985 log 9296 6812 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-12 12:44:52,162 log 9296 17192 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-12 12:46:04,279 log 9296 17192 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-12 12:46:04,300 log 9296 6812 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-12 12:46:16,596 log 9296 17192 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-12 12:46:16,608 log 9296 20104 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-12 12:46:16,684 log 9296 17192 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-12 12:46:16,951 log 9296 20104 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-12 12:56:51,032 log 9296 20432 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-12 12:56:51,897 log 9296 20432 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-12 12:56:52,315 log 9296 18248 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-12 12:56:52,755 log 9296 18248 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-12 12:57:15,667 log 9296 18248 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-12 12:57:15,687 log 9296 20432 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-12 13:02:48,998 log 9296 15984 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-12 13:02:49,282 log 9296 8392 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-12 13:02:49,844 log 9296 15984 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-12 13:02:50,382 log 9296 8392 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-12 13:03:06,249 log 9296 4992 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-12 13:03:06,249 log 9296 19320 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-12 13:03:06,709 log 9296 16992 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-12 13:03:07,009 log 9296 4992 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-12 13:03:16,478 log 9296 16992 Not Found: /api/products/best-deals/
+WARNING 2025-07-12 13:03:16,505 log 9296 19840 Not Found: /api/products/best-deals/
+WARNING 2025-07-12 13:03:17,405 log 9296 2644 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-12 13:03:18,408 log 9296 8392 Not Found: /api/user-behavior/realtime-personalization/
+INFO 2025-07-12 13:03:20,112 views 9296 8392 User logged out: store_owner
+WARNING 2025-07-12 13:03:21,581 log 9296 8392 Not Found: /api/products/best-deals/
+INFO 2025-07-12 13:03:45,722 views 9296 8392 User logged in: store_owner
+WARNING 2025-07-12 13:03:46,189 log 9296 18240 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-12 13:03:46,205 log 9296 8392 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-12 13:03:46,275 log 9296 18240 Not Found: /api/dashboard/store/undefined/stats/
+WARNING 2025-07-12 13:03:46,463 log 9296 16992 Not Found: /api/dashboard/store/[object Object]/analytics/
+WARNING 2025-07-12 13:26:07,928 log 9296 14672 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-12 13:26:07,930 log 9296 9136 Not Found: /api/products/best-deals/
+WARNING 2025-07-12 13:26:08,361 log 9296 7476 Not Found: /api/products/best-deals/
+WARNING 2025-07-12 13:26:12,446 log 9296 7476 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-12 17:20:23,307 log 9296 11604 Unauthorized: /api/auth/profile/
+WARNING 2025-07-12 17:20:23,455 log 9296 11528 Unauthorized: /api/user-behavior/log/
+WARNING 2025-07-12 17:20:23,556 log 9296 12528 Unauthorized: /api/auth/profile/
+WARNING 2025-07-12 17:20:23,648 log 9296 5960 Unauthorized: /api/user-behavior/log/
+WARNING 2025-07-12 17:20:37,874 log 9296 11528 Not Found: /api/products/best-deals/
+WARNING 2025-07-12 17:20:38,641 log 9296 11604 Not Found: /api/products/best-deals/
+WARNING 2025-07-12 17:20:39,181 log 9296 16348 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-12 17:20:40,463 log 9296 16348 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-12 17:21:11,351 log 9296 12528 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-12 17:21:11,755 log 9296 1428 Not Found: /api/products/best-deals/
+WARNING 2025-07-12 17:21:11,818 log 9296 2536 Not Found: /api/products/best-deals/
+WARNING 2025-07-12 17:21:12,903 log 9296 16348 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-12 17:24:21,395 log 9296 10468 Not Found: /api/products/best-deals/
+WARNING 2025-07-12 17:24:25,922 log 9296 14632 Not Found: /api/user-behavior/realtime-personalization/
+WARNING 2025-07-12 17:24:29,944 log 9296 13716 Not Found: /api/products/best-deals/
+WARNING 2025-07-12 17:24:30,085 log 9296 5096 Not Found: /api/user-behavior/realtime-personalization/
+INFO 2025-07-12 18:35:13,594 autoreload 10376 12956 Watching for file changes with StatReloader
+WARNING 2025-07-12 18:37:53,512 log 10376 10900 Unauthorized: /api/auth/profile/
+WARNING 2025-07-12 18:37:54,392 log 10376 11496 Unauthorized: /api/user-behavior/log/
+WARNING 2025-07-12 18:37:58,698 log 10376 11064 Unauthorized: /api/auth/profile/
+WARNING 2025-07-12 18:38:04,706 log 10376 10940 Unauthorized: /api/user-behavior/log/
+WARNING 2025-07-12 18:38:11,127 log 10376 11064 Unauthorized: /api/user-behavior/log/
+WARNING 2025-07-12 18:38:12,692 log 10376 10900 Unauthorized: /api/auth/token/refresh/
+WARNING 2025-07-12 18:38:13,457 log 10376 12004 Unauthorized: /api/user-behavior/log/
+WARNING 2025-07-12 18:38:16,744 log 10376 11844 Unauthorized: /api/auth/token/refresh/
+WARNING 2025-07-12 18:38:19,358 log 10376 11064 Unauthorized: /api/auth/token/refresh/
+WARNING 2025-07-12 18:39:24,398 log 10376 11368 Not Found: /api/products/best-deals/
+WARNING 2025-07-12 18:39:25,703 log 10376 11684 Not Found: /api/products/best-deals/
+INFO 2025-07-12 19:07:58,213 autoreload 4928 10268 Watching for file changes with StatReloader
+WARNING 2025-07-12 19:30:48,366 log 4928 11288 Bad Request: /api/auth/login/
+WARNING 2025-07-12 19:31:20,757 log 4928 9836 Not Found: /
+INFO 2025-07-12 19:32:03,779 autoreload 12512 13708 Watching for file changes with StatReloader
+WARNING 2025-07-12 19:32:14,635 log 12512 9816 Not Found: /
+WARNING 2025-07-12 19:37:57,469 log 12512 1284 Bad Request: /api/auth/login/
+WARNING 2025-07-12 19:38:53,283 log 12512 1284 Bad Request: /api/auth/login/
+WARNING 2025-07-12 19:48:32,208 log 12512 11008 Bad Request: /api/auth/login/
